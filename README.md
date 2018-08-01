@@ -14,7 +14,7 @@ alias norris="/directory/project/was/cloned/to/chuck-norris.sh"
 
 To always be able to run it add your alias to your .bashrc or .zshrc
 ```
-alias norris="/directory/project/was/cloned/to/chuck-norris.sh" >> $HOME/.bashrc
+echo 'alias norris="/directory/project/was/cloned/to/chuck-norris.sh"' >> $HOME/.bashrc
 ```
 
 Now you can type in your terminal
