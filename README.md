@@ -1,5 +1,5 @@
 # Chuck Norris Terminal Jokes
-A fun easy little hack to get random Chuck Norris jokes in your terminal. Also have the option to pass in a different name.
+A fun easy little hack to get random Chuck Norris jokes in your terminal. Also have the option to pass in a different name. Feel free to submit a pull request to make this better.
 
 ## How to get it working
 Clone the project
@@ -30,3 +30,7 @@ John Doe knows the value of NULL, and he can sort by it too.
 
 ### Also get the jokes here.
 <a href="https://safe-falls-15811.herokuapp.com/">Chuck Norris Jokes</a>
+
+### Made possible by
+<a href="http://www.icndb.com/">THE INTERNET CHUCK NORRIS DATABASE</a>
+
