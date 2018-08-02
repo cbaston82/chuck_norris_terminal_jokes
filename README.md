@@ -1,5 +1,5 @@
 # Chuck Norris Terminal Jokes
-A fun easy little hack to get random Chuck Norris jokes in your terminal. Also have the option to pass in a different name. Feel free to submit a pull request to make this better.
+A fun easy little hack to get random Chuck Norris jokes in your terminal. Also have the option to pass in a different name.
 
 ## How to get it working
 Clone the project
