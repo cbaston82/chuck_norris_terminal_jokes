@@ -26,11 +26,6 @@ $ norris John Doe
 John Doe knows the value of NULL, and he can sort by it too.
 ```
 
-![Chuck Norris Terminal Jokes](https://res.cloudinary.com/imagine-design-develop/image/upload/v1533100180/Screen_Shot_2018-07-31_at_10.03.22_PM-1.png)
-
-### Also get the jokes here.
-<a href="https://gifted-euler-9d575d.netlify.com/">Chuck Norris Jokes</a>
-
 ### Made possible by
 <a href="http://www.icndb.com/">THE INTERNET CHUCK NORRIS DATABASE</a>
 
